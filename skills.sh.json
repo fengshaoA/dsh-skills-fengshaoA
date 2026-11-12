@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Decision Making",
+      "description": "Structured deliberation for consequential choices.",
+      "skills": ["decision-council"]
+    }
+  ]
+}
